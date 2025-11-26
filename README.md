@@ -13,9 +13,6 @@ Databáze by mi měla umožnit:
   -ukládat soutěže a typy soutěží,
   
   -vést záznamy o jednotlivých zápasech, výsledcích, stadionech a čase konání,
-  
-  -propojit tyto údaje tak, aby se daly snadno vyhledávat.
-
 
 Co potřebuji evidovat:
 
@@ -25,14 +22,14 @@ Co potřebuji evidovat:
   
   -hráče,
   
-   -věkové a výkonnostní kategorie,
-    
-   -soutěže,
+  -věkové kategorie,
   
-   -zápasy a jejich výsledky.
+  -soutěže,
+  
+  -zápasy a jejich výsledky.
   
 
-Rád bych, aby databáze byla přehledná, normalizovaná, odstranila duplicitní data a dala se v budoucnu využít jako základ pro jednoduchou webovou aplikaci.
+Rád bych, aby databáze byla přehledná, normalizovaná, odstranila duplicitní data.
 
 Děkuji.
 
