@@ -35,3 +35,5 @@ Co potřebuji evidovat:
 Rád bych, aby databáze byla přehledná, normalizovaná, odstranila duplicitní data a dala se v budoucnu využít jako základ pro jednoduchou webovou aplikaci.
 
 Děkuji.
+
+Odkaz na dbdiagram: https://dbdiagram.io/d/fotbal-69031dce6735e11170721dd7
